@@ -38,17 +38,19 @@ This project is designed to monitor real-time data streams, process the incoming
    cd real-time-data-monitoring
 
 3. Create Virtual Environment:
+   ```bash
    python -m venv venv
    source venv/bin/activate  # For Mac/Linux
    venv\Scripts\activate  # For Windows
 
 4. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 5. Run the project:
+   ```bash
    python main.py
 
 👉 **NOTE**: If you don’t have a `requirements.txt` yet, run:
-
-  ```bash
-  pip freeze > requirements.txt
+   ```bash
+   pip freeze > requirements.txt
