@@ -18,7 +18,6 @@ This project is designed to monitor real-time data streams, process the incoming
 - WebSocket Communication
 - Data Visualization (`matplotlib`, `plotly`)
 - Multithreading & Asynchronous Programming
-- API Integration (if any)
 - Data Parsing (JSON/CSV)
 - Error Handling & Logging
 - Version Control (Git & GitHub)
